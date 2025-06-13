@@ -1,6 +1,8 @@
 # Compound-Toxicity-Prediction
 
 You can see my python(google colab) codes and data set through my google drive link.
+and If you want to see my code explanation, you can read pdf file. but It is written by Korean.
+
 
 Acute_Dermal_Physicochemical_properties_machine_learning.ipynb: https://drive.google.com/file/d/1ReboxmMH0lP3EoGQ0t0eefVBXsuvrwfW/view?usp=sharing
 
